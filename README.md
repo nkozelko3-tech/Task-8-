@@ -1,5 +1,7 @@
 Практическая работа: Объектно-ориентированное программирование в Dart (Flutter Architecture)
 
+Тема 1. Классы, инкапсуляция, методы и геттеры/сеттеры
+
 <img width="1909" height="1021" alt="1 1" src="https://github.com/user-attachments/assets/3ff314c4-111d-43f5-8aa1-ea7dadd20fa8" />
 
 class Thermostat {
